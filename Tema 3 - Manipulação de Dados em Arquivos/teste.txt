@@ -1,0 +1,5 @@
+Arquivo de texto para testes.
+
+Linha 1
+Linha 2
+LInha 3
