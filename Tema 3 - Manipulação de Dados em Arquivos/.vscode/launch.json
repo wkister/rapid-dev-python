@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Debug Atual",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": [],
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal",
+            "python": "/usr/bin/python3",
+            "stopOnEntry": false,
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            }
+        }
+    ]
+}
